@@ -1,0 +1,20 @@
+body {
+    background-image: url("cupang 2.jpg");
+    background-repeat: repeat-x;
+    background-size: 100%;
+}
+h3{
+    width: 400px;
+    color: black;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(25, 25, 188);
+}
+label{
+    background: rgb(80, 69, 69);
+    text-align: center;
+    width: 400px;
+    color: rgb(24, 16, 16);
+    text-decoration: none;
+}
+
